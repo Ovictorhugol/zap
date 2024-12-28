@@ -7,7 +7,7 @@ export default function Sucess() {
         <img className="sucessImg" src={imgURL} />
         <div>
           <p>Sabia que você não ia recusar!</p>
-          <p>Te mandarei mensagem com mais informações! Até logo 😘</p>
+          <p>Te mandarei mensagem com mais informações!</p>
           <p>Até logo 😘</p>
         </div>
       </div>
