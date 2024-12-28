@@ -8,6 +8,7 @@ export default function Sucess() {
         <div>
           <p>Sabia que você não ia recusar!</p>
           <p>Te mandarei mensagem com mais informações! Até logo 😘</p>
+          <p>Até logo 😘</p>
         </div>
       </div>
     </div>
