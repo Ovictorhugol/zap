@@ -74,3 +74,9 @@
 .buttonDivPositionSquare {
   height: 25rem;
 }
+
+@media (max-width: 768px) {
+  .App h1 {
+    font-size: 2.5rem;
+  }
+}
